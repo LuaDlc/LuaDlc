@@ -1,5 +1,9 @@
 ### Olá, me chamo Luana Dias
 #### Seja bem vinda(o) ao meu perfil!
+Atualmente estudo desenvolvimento android com Java, Flutter e Kotlin, pela Dio, Fundação Bradesco e através do Canal
+Tenho conhecimento também em desenvolvimento web. Além disso sou graduanda em Análise e desenvolvimento de sistemas.
+
+Aprecie o meu perfil 🖤
 
 <div align="center">
   <a href="https://github.com/LuaDlc">
@@ -11,6 +15,10 @@
   <img align="center" alt="Lua-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lua-kotlin" height="30" width="40"
+src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="Lua-flutter" height="30" width="40"
+src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="right" alt="Lua-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102997834/175109342-ac880286-36ea-48ab-8032-2d90ae1ad129.png">
  
 </div>
