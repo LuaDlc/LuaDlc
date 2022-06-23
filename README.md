@@ -1,7 +1,13 @@
-### Olá, me chamo Luana Dias
-#### Seja bem vinda(o) ao meu perfil!
-Atualmente estudo desenvolvimento android com Java, Flutter e Kotlin, pela Dio, Fundação Bradesco e através do Canal
-Tenho conhecimento também em desenvolvimento web. Além disso sou graduanda em Análise e desenvolvimento de sistemas.
+### Olá, me chamo Luana Dias 🌚
+---
+#### Seja bem vinda(o) ao meu perfil! 
+- 📱 Atualmente estudo desenvolvimento android com Java, Flutter e Kotlin. 
+- 💻 Tenho conhecimento também em desenvolvimento web.
+- 👩‍💻 Graduanda em Análise e desenvolvimento de sistemas.
+
+
+
+---
 
 Aprecie o meu perfil 🖤
 
