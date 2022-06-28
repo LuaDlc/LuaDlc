@@ -1,15 +1,13 @@
-### Olá, me chamo Luana Dias 🌚
+### Hello, my name is Luana! 🌚 
 ---
-#### Seja bem vinda(o) ao meu perfil! 
-- 📱 Atualmente estudo desenvolvimento android com Java e Dart. 
-- 💻 Tenho conhecimento também em desenvolvimento web.
-- 👩‍💻 Graduanda em Análise e desenvolvimento de sistemas.
-
-
+#### Welcome to my profile! 
+- 📱 Currently I study Java and Dart languages. 
+- 💻 I also have knowledge in web development with css, html and javascript.
+- 👩‍💻 Undergraduate student in Systems Analysis and Development.
 
 ---
 
-Aprecie o meu perfil 🖤
+Enjoy my profile 🖤
 
 <div align="center">
   <a href="https://github.com/LuaDlc">
@@ -25,6 +23,8 @@ Aprecie o meu perfil 🖤
 src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Lua-flutter" height="30" width="40"
 src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+ <img align="center" alt="Lua-dart" height="30" width="40"
+ src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="right" alt="Lua-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102997834/175109342-ac880286-36ea-48ab-8032-2d90ae1ad129.png">
  
 </div>
