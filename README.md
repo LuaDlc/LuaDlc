@@ -1,7 +1,7 @@
 ### Hello, my name is Luana! 🌚 
 ---
 #### Welcome to my profile! 
-- 📱 Currently I study Java and Dart languages. 
+- 📱 Currently I study  Dart language and Flutter. 
 - 💻 I also have knowledge in web development with css, html and javascript.
 - 👩‍💻 Undergraduate student in Systems Analysis and Development.
 
