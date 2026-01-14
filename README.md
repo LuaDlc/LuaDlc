@@ -1,28 +1,32 @@
 ### Hello, my name is Luana! 🌚 
 ---
-#### Welcome to my profile! 
-- 📱 Currently I study  Dart language and Flutter. 
-- 💻 I also have knowledge in web development with css, html and javascript.
-- 👩‍💻 Undergraduate student in Systems Analysis and Development.
+#### Bem vindo(a) ao meu perfil! 
+- 📱Atualmente eu sou uma desenvolvedora flutter 
+- 💻 Aspirante ao desenvolvimento fullstack, estudando react, typescript e node.js, bem como aplicando nos meus projetos de estudo.
+- 👩‍💻 Graduada em análise e desenvolvimento de sistemas.
+-  +3 anos de experiência com Flutter, desenvolvendo aplicações multiplataforma, garantindo padrões de qualidade, trabalhandob em conjunto com equipes de UX/UI, produto e QA
+-  Experiência em metodologias ágeis
+-  Conhecimento em versionamento de código
+-  experiencia com Mobx, Bloc e conhecimento com Riverpod
+-  Amplo conhecimento em integrações com API REST
 
 ---
 
 Enjoy my profile 🖤
 
 <div align="center">
-  <a href="https://github.com/LuaDlc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuaDlc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaDlc&layout=compact&langs_count=7&theme=dracula"/>
+ 
+ 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lua-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lua-flutter" height="30" width="40"
+  <img align="center" alt="Lua-flutter" height="80" width="60"
 src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- <img align="center" alt="Lua-dart" height="30" width="40"
+  <img align="center" alt="Lua-dart" height="80" width="60"
  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+ 
   <img align="right" alt="Lua-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102997834/175109342-ac880286-36ea-48ab-8032-2d90ae1ad129.png">
  
 </div>
